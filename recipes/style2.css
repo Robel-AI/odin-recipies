@@ -1,0 +1,22 @@
+body {
+    background-image: url(Recipe\ Book\ Printables.jpeg);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+font-weight: 200;
+background-size: contain;
+background-blend-mode: color-dodge;
+image-rendering:auto;
+image: resolution 1080px; ;
+}
+#lasagna {
+    border-radius: 20px;
+}
+#cake {
+    border-radius: 20px;
+    width: auto;
+    height:min-content;
+}
+#hot {
+    backface-visibility: visible;
+    border-radius: 20px;
+}

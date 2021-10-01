@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/ca/27/f1/ca27f1293f81c3906fa158fb2135a57c.jpg);
+}
+h1 {
+    color: rgb(13, 191, 223);
+    font-size:300%;
+}
+a {
+    font-size: larger;
+    color: rgb(210, 101, 238);
+    
+}
+p {
+    text-combine-upright:inherit;
+    text-align:justify
+}
